@@ -11,7 +11,7 @@
   "dependencies": {
     "@nextui-org/react": "^2.2.10",
     "clsx": "^2.1.0",
-    "flowbite-react": "^0.7.8",
+    "flowbite-react": "^0.10.2",
     "formik": "^2.4.5",
     "framer-motion": "^11.0.24",
     "i": "^0.3.7",
@@ -20,7 +20,7 @@
     "react-data-table-component": "^7.6.2",
     "react-dom": "^18",
     "styled-components": "^5.3.11",
-    "tailwind-merge": "^2.2.2",
+    "tailwind-merge": "^2.4.0",
     "yup": "^1.4.0"
   },
   "devDependencies": {
